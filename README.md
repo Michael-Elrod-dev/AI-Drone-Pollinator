@@ -1,5 +1,5 @@
 # AI Drone Pollinator
-![Animation](https://github.com/Michael-Elrod-dev/Drone-Pollination/blob/main/Assets/Example.png)
+![Animation](https://github.com/Michael-Elrod-dev/AI-Drone-Pollinator/blob/main/Assets/Example.png)
 
 This project simulates a swarm of drones navigating a field to pollinate flowers. The visualization provides insights into the movement patterns of drones and their interactions with the flower clusters.
 
