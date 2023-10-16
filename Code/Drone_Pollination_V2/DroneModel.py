@@ -6,7 +6,7 @@ class DroneModel:
     flowerDict = {}
     def __init__ (self, droneId, swarmModel, initPos, fieldModel, refreshRate, 
                   initVelocity=np.array([0,5.0]), effectRadius=2,
-                  cameraRadius=3, maxSpeed=5.0, safeDistance=10,
+                  cameraRadius=3, maxSpeed=5.0, safeDistance=3,
                   reductionTime=.5):
         
         self.droneId = droneId
